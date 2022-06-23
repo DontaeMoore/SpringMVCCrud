@@ -24,14 +24,14 @@ public class ContactDAOImpl implements ContactDAO {
 
 	@Override
 	public int save(Contact c) {
-		String sql = "INSERT INTO Tracks (name, city, state, zip, ownership) VALUES (?, ?, ?, ?, ?)";
+		String sql = "INSERT INTO tracks (name, city, state, zip, ownership) VALUES (?, ?, ?, ?, ?)";
 		return jdbcTemplate.update(sql, c.getName(), c.getCity(), c.getState(), c.getZip(), c.getOwnership());
 		
 	}
 
 	@Override
 	public int update(Contact c) {
-		String sql = "UPDATE  Tracks SET name = ?, city = ?, state = ?, zip = ?, ownership = ? WHERE id =?";
+		String sql = "UPDATE  tracks SET name = ?, city = ?, state = ?, zip = ?, ownership = ? WHERE id =?";
 		return jdbcTemplate.update(sql, c.getName(), c.getCity(), c.getState(), c.getZip(), c.getOwnership(), c.getId());
 	}
 
