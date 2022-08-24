@@ -35,7 +35,7 @@ public class HomeController {
 	
 	
 	
-	@RequestMapping(value = "/")
+	@RequestMapping(value = {"/", "home"})
 	public ModelAndView listContact(ModelAndView model) throws IOException {
 		
 		List<Contact> listContact = contactDAO.list();
