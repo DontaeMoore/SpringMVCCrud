@@ -11,6 +11,7 @@
 <div align="center">
 <h1>Derby Tracks List</h1>
 <h3><a href = "add">New Tracks</a></h3>
+<a href="horse"><input type="submit" value="Horse Page"/></a>
 <table border="1" cellpadding="5">
 <tr>
 	<th>ID</th>
