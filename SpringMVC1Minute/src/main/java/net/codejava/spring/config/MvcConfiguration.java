@@ -46,7 +46,7 @@ public class MvcConfiguration extends WebMvcConfigurerAdapter{
 	}
 	
 	@Bean
-	public ContactDAO getCOntactDAO() {
+	public ContactDAO getContactDAO() {
 		return new ContactDAOImpl(getDataSource());
 	}
 
