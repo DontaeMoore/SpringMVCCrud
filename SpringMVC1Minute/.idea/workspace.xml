@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5568512a-a62a-4b48-ac2f-a0e7641ed58b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC1Minute.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC1Minute.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/net/codejava/spring/config/MvcConfiguration.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/net/codejava/spring/controller/HomeController.class" beforeDir="false" />
@@ -12,7 +15,6 @@
       <change beforePath="$PROJECT_DIR$/target/classes/net/codejava/spring/dao/ContactDAOImpl$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/net/codejava/spring/dao/ContactDAOImpl$2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/net/codejava/spring/dao/ContactDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/codejava/spring/dao/test/ContactDAOTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/net/codejava/spring/model/Contact.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,18 +56,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/donta/git/SpringMVC/SpringMVC1Minute&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/donta/git/SpringMVC/SpringMVC1Minute",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\donta\git\SpringMVC\SpringMVC1Minute" />
