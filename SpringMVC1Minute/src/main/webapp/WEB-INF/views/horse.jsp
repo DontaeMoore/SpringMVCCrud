@@ -12,5 +12,12 @@
          <p>This is the Horse Page</p>
          <img src="resources/img/horsepic.jpg">
          <a href="home"><input type="submit" value="Back"/></a>
+            <p>Here is a weather Report from here in Lexington!</p>
+         <p> It is ${Weather[0]} Degrees Fahrenheit , With ${Weather[1]}, The wind speed is ${Weather[3]} MPH  </p>
+
+
+            <img src="resources/img/icons/${Weather[2]}.png">
+
+
     </body>
 </html>
